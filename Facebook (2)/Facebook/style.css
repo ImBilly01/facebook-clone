@@ -1,0 +1,88 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.first {
+	float: left;
+	margin-top: 13%;
+	margin-left: 13%;
+	font-family: Arial , Helvetica , sans-serif;
+	font-size: 28px;
+}
+
+.second {
+	float: right;
+	margin-top: 11%;
+	margin-right: 13%;
+}
+
+.logo {
+	margin-left: -31px;
+	width: 300px;
+}
+
+.emaili {
+	padding: 17px;
+	border-radius: 5px;
+	padding-right: 30%;
+	text-align: left;
+	padding-left: 10px;
+	font-size: 15px;
+	border-style: none;  
+}
+
+.pasi {
+	padding: 17px;
+	border-radius: 5px;
+	padding-right: 30%;
+	text-align: left;
+	padding-left: 10px;
+	font-size: 15px;
+	margin-top: 10px;
+	border-style: none;
+}
+
+.btn {
+	padding: 4%;
+	border-radius: 7px;
+	margin-top: 10px;
+	width: 97%;
+	padding-left: 10px;
+	background-color: #1877f2;
+	font-size: 18px;
+	color: white;
+	border-style: none; 
+}
+
+a {
+	margin-left: 31%;
+	text-decoration: none;
+	color: #1877f2;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+	margin-top: -4%;
+}
+
+.para2 {
+	margin-top: -5.5%;
+	margin-left: 45%;
+	color: grey;
+}
+
+.btn2 {
+	margin-left: 17.7%;
+	padding: 16px;
+	border-radius: 8px;
+	border-style: none;
+	background-color: #42b72a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
